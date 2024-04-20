@@ -24,4 +24,3 @@ def plot():
         figura=figura,
     )
 
-print (plot())
